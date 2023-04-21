@@ -3,22 +3,20 @@ h1 {
 }
 
 #eight-ball {
-    height: 400px;
-    width: 400px;
-    border-radius: 200px;
+    box-shadow: 5px 5px 10px #678;
     margin: auto;
-}
-
-.wrapper-eight-ball-answer {
-    height: 400px;
-    width: 400px;
-    border-radius: 200px;
-    margin: auto;
-}
-
-.eight-ball-answer {
+    margin-top: 30px;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: white;
-    font-size: 40px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 30px;
 }
 
 .black {
