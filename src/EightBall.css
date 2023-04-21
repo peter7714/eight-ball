@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+
+#eight-ball {
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+    margin: auto;
+}
+
+.wrapper-eight-ball-answer {
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+    margin: auto;
+}
+
+.eight-ball-answer {
+    color: white;
+    font-size: 40px;
+}
+
+.black {
+    background-color: black;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+}
+
